@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6c0pW0KElrFNaps7cVZg6NLXYrALU6mZleF57lBCPbU+XEfqicuO4Bfzf+crO26qmiETKMJxi6RJdUEBZ485hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stavva\\source\\repos\\HelloWorldProject\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
